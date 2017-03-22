@@ -1,0 +1,20 @@
+apply plugin: 'java-library'
+apply plugin: 'java'
+apply plugin: 'war'
+apply plugin : 'eclipse'
+apply plugin: 'eclipse-wtp'
+
+group = 'com.muraluniversitario'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+	compile group: 'org.glassfish.jersey.containers', name: 'jersey-container-servlet', version: '2.24'
+	compile group: 'org.glassfish.jersey.media', name: 'jersey-media-json-jackson', version: '2.24'
+	providedCompile group: 'javax', name: 'javaee-web-api', version: '7.0'
+	compile group: 'org.mongodb', name: 'mongo-java-driver', version:'3.2.2'
+	compile group: 'org.slf4j', name: 'slf4j-simple', version:'1.7.21'
+}
+
