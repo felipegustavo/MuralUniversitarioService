@@ -1,0 +1,112 @@
+{ 
+    "_id" : ObjectId("58cd9bbd8e714928ed77ea0e"), 
+    "name" : "nosql:ba", 
+    "description" : "Conferência baiana de nosql.", 
+    "image" : "images/nosqlba.png", 
+    "place" : "Ucsal - Av. Prof. Pinto de Aguiar, 2589 - Pituaçu, Salvador - BA 41740-090", 
+    "begin" : ISODate("2017-03-31T00:00:00.000+0000"), 
+    "end" : ISODate("2017-04-01T00:00:00.000+0000"), 
+    "price" : "A partir de R$55,00", 
+    "facebook" : "", 
+    "website" : "http://nosqlba.org/", 
+    "categories" : [
+        "computing"
+    ], 
+    "institutions" : [
+        "ucsal"
+    ]
+}
+{ 
+    "_id" : ObjectId("58cda7388e714928ed77ea0f"), 
+    "name" : "ICSR 2017", 
+    "description" : "A 16º conferência internacional em reuso de software.", 
+    "image" : "images/icsr.png", 
+    "place" : "Avenida Ademar de Barros, UFBA - Campus Ondina. Instituto de Matemática, 40170110 Salvador", 
+    "begin" : ISODate("2017-05-29T08:00:00.000+0000"), 
+    "end" : ISODate("2017-05-31T18:00:00.000+0000"), 
+    "price" : "A partir de $490", 
+    "facebook" : "https://www.facebook.com/events/1825131664410421/", 
+    "website" : "http://icsr2017.ufba.br/", 
+    "categories" : [
+        "computing"
+    ], 
+    "institutions" : [
+        "ufba", 
+        "ufcg"
+    ]
+}
+{ 
+    "_id" : ObjectId("58cdacd48e714928ed77ea10"), 
+    "name" : "Festival da TICA", 
+    "description" : "A Escola de Modelo de Regressão 2017 (EMR) é um grande congresso de Estatística que será realizado em Goiânia entre os dias 26 a 29 de março de 2017. Tivemos oito trabalhos aprovados dos alunos do Instituto de Matemática e Estatística (IME). Um dos meios para arrecadar dinheiro e ajudar nos custos da viagem, é a realização do Festival da Tica.", 
+    "image" : "images/tica.png", 
+    "place" : "IM - Instituto de Matemática 40170-140 Salvador", 
+    "begin" : ISODate("2017-03-24T14:00:00.000+0000"), 
+    "end" : ISODate("2017-03-24T18:00:00.000+0000"), 
+    "price" : "R$20", 
+    "facebook" : "https://www.facebook.com/events/1378465322176271/", 
+    "website" : "", 
+    "categories" : [
+        "cinema", 
+        "art", 
+        "music"
+    ], 
+    "institutions" : [
+        "ufba"
+    ]
+}
+{ 
+    "_id" : ObjectId("58cdbb008e714928ed77ea11"), 
+    "name" : "FRONT IN_SALVADOR", 
+    "description" : "A segunda edição do Front in Salvador acontecerá dia 27 de Maio de 2017. O evento tem como objetivo movimentar a comunidade e cultura de Front End. Durante um dia de sábado os participantes do evento irão desfrutar de palestras com os temas mais quentes do mundo Front-End.", 
+    "image" : "images/frontin.png", 
+    "place" : "Faculdade DeVry Ruy Barbosa - R. Theodomiro Baptista, 422 - Rio Vermelho, Salvador - Bahia, 41940-320, 41.940-320 Salvador", 
+    "begin" : ISODate("2017-03-25T08:00:00.000+0000"), 
+    "end" : ISODate("2017-03-25T18:00:00.000+0000"), 
+    "price" : "R$45,00–R$60,00", 
+    "facebook" : "https://www.facebook.com/events/1844693865799629/", 
+    "website" : "http://www.frontinssa.com/", 
+    "categories" : [
+        "computing"
+    ], 
+    "institutions" : [
+        "ruy_barbosa"
+    ]
+}
+{ 
+    "_id" : ObjectId("58cdbe448e714928ed77ea12"), 
+    "name" : "III FESTIVAL DE MÚSICA DA UFBA-CONQUISTA", 
+    "description" : "O Festival acontecerá nos dias 20 e 21 de outubro no auditório do Pavilhão Administrativo, como parte das comemorações dos 10 anos de existência da UFBA-Conquista.", 
+    "image" : "images/festival-musica-conquista.png", 
+    "place" : "Rua Rio de Contas, Bairro Candeias Vitória da Conquista", 
+    "begin" : ISODate("2016-08-23T08:00:00.000+0000"), 
+    "end" : ISODate("2016-08-23T18:00:00.000+0000"), 
+    "price" : "Grátis", 
+    "facebook" : "", 
+    "website" : "http://www.ims.ufba.br/evento/ii-festival-de-musica-da-ufba-conquista/", 
+    "categories" : [
+        "music"
+    ], 
+    "institutions" : [
+        "ufba"
+    ]
+}
+{ 
+    "_id" : ObjectId("58cdbfc28e714928ed77ea13"), 
+    "name" : "VII MOSTRA DE PERFORMANCE", 
+    "description" : "VII MOSTRA DE PERFORMANCE: ARTE NEGRA, IMAGEM, EMPODERAMENTO E DISSONÂNCIAS CONTEMPORÂNEAS", 
+    "image" : "images/mostra-cultural.png", 
+    "place" : "Rua Araújo Pinho, 19 Salvador, Brazil", 
+    "begin" : ISODate("2017-03-13T08:00:00.000+0000"), 
+    "end" : ISODate("2017-03-24T17:00:00.000+0000"), 
+    "price" : "Grátis", 
+    "facebook" : "", 
+    "website" : "http://www.agenda.ufba.br/?tribe_events=vii-mostra-de-performance-arte-negra-imagem-empoderamento-e-dissonancias-contemporaneas", 
+    "categories" : [
+        "art", 
+        "music"
+    ], 
+    "institutions" : [
+        "ufba"
+    ]
+}
